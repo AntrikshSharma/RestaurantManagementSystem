@@ -1,9 +1,9 @@
 # RestaurantManagementSystem
 Restaurant Management System built from scratch using:
-  1. Tkinter
-  2. SQL
-  3. SMTP
-  4. HTML & CSS
+  1. Tkinter (GUI)
+  2. SQL (Database)
+  3. SMTP (Mailing Service)
+  4. HTML & CSS (Viewing Data)
 
 ### Classes Used:
 ![image](https://user-images.githubusercontent.com/35479604/160064178-3df8e383-e717-40f9-9766-53be53d64f6f.png)
